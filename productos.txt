@@ -1,0 +1,21 @@
+{
+        "title": "Midnights",
+        "price": 30,
+        "thumbnail": "https://jenesaispop.com/wp-content/uploads/2022/08/taylorswift-midnights-696x743.jpg",
+        "autor": "Taylor Swift",
+        "id": 1
+      },
+      {
+        "title": "Proof",
+        "price": 30,
+        "thumbnail": "https://seeklogo.com/images/B/bts-proof-album-logo-E671B85E45-seeklogo.com.png",
+        "autor": "BTS",
+        "id": 2
+      },
+      {
+        "title": "Red (Taylor´s Version)",
+        "price": 30,
+        "thumbnail": "https://lastfm.freetls.fastly.net/i/u/770x0/a758908e6e86dcecbb199c4b19acb799.jpg#a758908e6e86dcecbb199c4b19acb799",
+        "autor": "Taylor Swift",
+        "id": 3
+      }
